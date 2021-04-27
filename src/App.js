@@ -6,7 +6,7 @@ function App() {
     return (
         <div className="App">
             <div className="container">
-                <h1 className="text-center">REACT MOVIE SEARCH VERY COOL CLOUDFLARE PAGES </h1>
+                <h1 className="text-center">REACT MOVIE SEARCH</h1>
                 <SearchMovies />
             </div>
         </div>
