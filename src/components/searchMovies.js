@@ -34,7 +34,7 @@ export default function SearchMovies() {
                     value={query}
                     className="input"
                     onChange={(e) => setQuery(e.target.value)}
-                    placeholder="i.e. Jurassic Park Testing 123 Cloud Cloud"
+                    placeholder="i.e. Jurassic Park"
                 />
                 <button className="button" type="submit">
                     Search!
